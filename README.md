@@ -1,2 +1,2 @@
 # mark-9-goodreads
-Created with CodeSandbox
+Facing difficulty in choosing a good book, this app has a good collection of books in various genres
